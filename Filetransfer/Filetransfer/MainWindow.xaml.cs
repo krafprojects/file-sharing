@@ -29,9 +29,5 @@ namespace Filetransfer
         {
 
         }
-
-        private void Button_Click_1(object sender, RoutedEventArgs e)
-        {
-            TextBox textBox = TextBox         }
     }
 }
