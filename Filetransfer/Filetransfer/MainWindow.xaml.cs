@@ -24,5 +24,14 @@ namespace Filetransfer
         {
             InitializeComponent();
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+
+        }
+
+        private void Button_Click_1(object sender, RoutedEventArgs e)
+        {
+            TextBox textBox = TextBox         }
     }
 }
