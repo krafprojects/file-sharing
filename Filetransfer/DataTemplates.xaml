@@ -44,7 +44,7 @@
             <Button Grid.Row="0"
                     Grid.Column="1"
                     Command="{Binding MaxAppCommand}"
-                    CommandParameter="{Binding ElementName=ResponsiveWindow}"
+                    CommandParameter="{Binding ElementName=FiletransferWindow}"
                     Style="{StaticResource MaxAppStyle}" />
 
             <Grid Grid.Row="0"
@@ -211,7 +211,7 @@
             <Button Grid.Row="0"
                     Grid.Column="1"
                     Command="{Binding MaxAppCommand}"
-                    CommandParameter="{Binding ElementName=ResponsiveWindow}"
+                    CommandParameter="{Binding ElementName=FiletransferWindow}"
                     Style="{StaticResource MaxAppStyle}" />
 
             <Grid Grid.Row="0"
